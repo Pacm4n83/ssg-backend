@@ -1,3 +1,3 @@
 # ssg-backend
-First task completed successfully.
+Completing weekly tasks in this repo.
  
